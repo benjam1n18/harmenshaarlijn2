@@ -1,0 +1,14 @@
+CRUD:
+
+Propaganda website (pro harmen propaganda),
+
+requirements,
+-crud stystem
+  -images
+  -text
+  -dates
+
+Taakverdeling 
+Elise: front end/design.
+Adam: back end en database manager. 
+Benjamin: assistend back end en database manager.(en koffie jongen)
